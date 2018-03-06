@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="loginscreen_login_with_google">Login with Google</string>
+    <string name="loginscreen_or">Or you can</string>
+    <string name="loginscreen_email">Email</string>
+    <string name="loginscreen_password">Password</string>
+    <string name="loginscreen_login">Login</string>
+    <string name="loginscreen_forgot">Forgot Password?</string>
+    <string name="loginscreen_new_here">Are You New Here?</string>
+    <string name="loginscreen_signup">Sign Up</string>
+    <string name="loginfailure_google">SignIn With Google: Failure</string>
+    <string name="loginsuccess_google">SignIn With Google: Success</string>
+    <string name="signout_success">Sign-Out Successful</string>
+    <string name="hello_blank_fragment">hello this is a blank Fragment</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+    <string name="title_collapse">Edit</string>
+    <string name="btn1">btn1</string>
+    <string name="change_dp"></string>
+    <string name="image"></string>
+
+    <string name="nameerror">In-Valid Name</string>
+    <string name="emailerror">In-Valid Email</string>
+    <string name="passworderror">Password must be atleast 6 characters</string>
+    <string name="mobileerror">In-Valid Mobile Number</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_signin">Sign In</string>
+    <string name="button_submit">Submit</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="already_a_member">If already a user member</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_no">Enter Mobile Number</string>
+
+    <string name="heading">OUR TEAM</string>
+    <string name="name1">Md. Altaf Raza</string>
+    <string name="designation1">Lead Designer</string>
+    <string name="desc1">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="name2">Shourya Sharma</string>
+    <string name="designation2">Lead Developer</string>
+    <string name="desc2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="name3">Khushvinder Vaid</string>
+    <string name="designation3">Marketing Head</string>
+    <string name="desc3">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="name4">Vishal Thakur</string>
+    <string name="designation4">Lead Coder</string>
+    <string name="desc4">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="name5">Rohit Kumar</string>
+    <string name="designation5">Lead Prototyper</string>
+    <string name="desc5">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="user_name">KHUSH</string>
+    <string name="Age">Age</string>
+    <string name="Member">Members</string>
+    <string name="Age_num">20</string>
+    <string name="Mem_num">2</string>
+    <string name="email">khushvinder15047@iiitd.ac.in</string>
+    <string name="Text_home">Karol bagh</string>
+    <string name="Text_work">Okhla, IIITD</string>
+    <string name="Text_pass">khush</string>
+    <string name="Text_name">Khush</string>
+    <string name="Text_DOB">30/04/1997</string>
+    <string name="Edit_home">Karol bagh</string>
+    <string name="Edit_DOB">30/04/1997</string>
+
+
+    <string name="Edit_work">Okhla, IIITD</string>
+
+
+    <string name="Edit_pass">khush</string>
+
+
+    <string name="Edit_name">Khush</string>
+
+
+
+
+
+</resources>

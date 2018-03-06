@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Edit Profile"
+            android:icon="@drawable/profile">
+
+        </item>
+    </group>
+        <group android:id="@+id/group2">
+        <item
+            android:id="@+id/nav_curent"
+            android:title="Search"
+            android:icon="@drawable/searchs">
+
+        </item>
+        </group>
+
+    <group android:id="@+id/group3">
+        <item
+            android:id="@+id/nav_work"
+            android:title="Settings"
+            android:icon="@drawable/setting">
+
+        </item>
+    </group>
+
+    <group android:id="@+id/group4">
+        <item
+            android:id="@+id/recommendation"
+            android:title="Recommendation"
+            android:icon="@drawable/recomend"
+            ></item>
+    </group>
+    <group android:id="@+id/group5">
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/logout">
+
+        </item>
+    </group>
+
+    <group android:id="@+id/group6">
+        <item
+            android:id="@+id/about"
+            android:title="About"
+            android:icon="@drawable/about">
+
+        </item>
+    </group>
+
+</menu>
